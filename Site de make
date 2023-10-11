@@ -8,8 +8,8 @@ k<!DOCTYPE html>
 <body>
 h1> meec </h1>
 <p> não vendemos lanches, apenas maquiagens <strong>quer ficar bonita?✨️</strong> </p>
-<p> tudo nos melhores precos para você 😁 </p> 
-<p> temos tudo oque você precisa para ficar linda😸🥰 </p>
+<p class="make">tudo nos melhores precos para você 😁 </p> 
+<p class="maquiagens">temos tudo oque você precisa para ficar linda😸🥰 </p>
 <img src="e0aac7b965.webp">
 </body>
 </html>
